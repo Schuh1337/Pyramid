@@ -1,6 +1,8 @@
 # Pyramid
 
 Required Modules:
-pygame
+
+win32, pygame, tkinter
+
 
 god this is so cool

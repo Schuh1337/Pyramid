@@ -40,8 +40,8 @@ horizontal_rotation_speed = 0.01
 vertical_rotation_speed = 0.005
 is_dragging_horizontal = False
 is_dragging_vertical = False
-font = pygame.font.Font(None, 24)
 is_dragging_zoom = False
+font = pygame.font.Font(None, 24)
 face_colors = [
     (255, 0, 0, 0),
     (0, 255, 0, 0),

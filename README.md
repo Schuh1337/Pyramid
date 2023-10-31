@@ -1,2 +1,6 @@
 # Pyramid
-cool ass rotating pyramid in python with sliders
+
+Required Modules:
+pygame
+
+god this is so cool

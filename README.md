@@ -2,7 +2,7 @@
 
 Required Modules:
 
-win32, pygame, tkinter
+pygame
 
 
 / god this is so cool

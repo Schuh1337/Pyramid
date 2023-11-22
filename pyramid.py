@@ -1,6 +1,4 @@
-import pygame
-import sys
-import math
+import pygame, sys, math
 pygame.init()
 width, height = 800, 600
 screen = pygame.display.set_mode((width, height))
